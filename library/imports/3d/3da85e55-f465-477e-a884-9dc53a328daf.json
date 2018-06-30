@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "score-dialog",
+    "texture": "6c2c7e99-12e9-428d-91e0-33aee8e64abc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      309
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      309
+    ]
+  }
+}

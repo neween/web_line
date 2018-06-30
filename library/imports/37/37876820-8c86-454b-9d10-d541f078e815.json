@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "pause-dialog",
+    "texture": "3e8425ce-c6f9-4c70-934a-1bca19fdfec7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      309
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      309
+    ]
+  }
+}
